@@ -110,7 +110,9 @@ _**Note**: Please make sure you have already done the setup prerequisites to run
 Your grade in the course will be computed according to the following guidelines.
 
 ### Submission Format
-Assignment and project release annoucements will be on Ed. Your work will be submitted as a repository created by [GitHub classroom](https://classroom.github.com/).  Clicking the assignment link (announced on its release date) will automatically create a repository under your username (ensure it matches the one on the CS-552 GitHub registration form). Your last push to the repository will be considered as your final submission, with its timestamp determining any late days (see below for the Late Days Policy). All large files such as model checkpoints need to be pushed to this repository with [Git LFS](https://git-lfs.com/). You can find our tutorial [here][0t]. Large files can take time to upload, therefore please avoid last-minute uploads that can create potential submission delays.
+Assignment and project release annoucements will be on Ed. Your work will be submitted as a repository created by [GitHub classroom](https://classroom.github.com/). Clicking the assignment link (announced on its release date) will automatically create a repository under your username (ensure it matches the one on the CS-552 GitHub registration form). Your last push to the repository will be considered as your final submission, with its timestamp determining any late days (see below for the policy).
+
+All large files such as model checkpoints need to be pushed to the repository with [Git LFS](https://git-lfs.com/). Large files can take time to upload, therefore please avoid last-minute uploads that can create potential submission delays. We also propose to use [Colab](https://colab.research.google.com/) as a free GPU resource. You can find tutorials on all of these resources [here][0t].
 
 ### Late Days Policy
 All assignments and milestones are due at 23:59 on their due date. As we understand that circumstances can make it challenging to abide by these due dates, you will receive 6 late days over the course of the semester to be allocated to the assignments and project milestones as you see fit. No further extensions will be granted. The only exception to this rule is for the final report, code, and data. No extensions will be granted beyond June 14th.
@@ -184,7 +186,8 @@ Please contact us for any organizational questions or questions related to the c
 <!-- [13s]: -->
 <!-- [14s]: -->
 
-[0t]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/git_lfs.md
+
+[0t]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/tutorials.md
 [0e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Setup
 [1e]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Exercises/Week%201%20-%20Word%20Embeddings
 <!-- [2e]: -->
