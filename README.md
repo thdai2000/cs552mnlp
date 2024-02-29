@@ -33,7 +33,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |:------------|:---------------------|:----------------------------------------------------------------------------------------------------------------------------|:------------------------------------------:|
 | **Week 1**  | 21 Feb <br />22 Feb  |  Introduction &#124; Building a simple neural classifier [[slides][1s]]  <br />Neural LMs: word embeddings [[slides][1s]]  |  Antoine Bosselut                   	    |
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 2**  |  28 Feb <br />29 Feb   |  LM basics &#124; Neural LMs: Fixed Context Models [[slides][2s]]<br />Neural LMs: RNNs, Backpropagation, Vanishing Gradients; LSTMs     |  Antoine Bosselut                   		|
+| **Week 2**  |  28 Feb <br />29 Feb   |  LM basics &#124; Neural LMs: Fixed Context Models [[slides][2s]]<br />Neural LMs: RNNs, Backpropagation, Vanishing Gradients; LSTMs [[slides][2s]]    |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 3**  |  6 Mar <br />7 Mar   |  Seq2seq + decoding + attention &#124; Transformers<br />Transformers + Greedy Decoding; GPT |  Antoine Bosselut  		|
 |             |                      |                                                                                                                             |                                      	    |
