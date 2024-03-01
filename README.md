@@ -37,7 +37,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 3**  |  6 Mar <br />7 Mar   |  Seq2seq + decoding + attention &#124; Transformers<br />Transformers + Greedy Decoding; GPT |  Antoine Bosselut  		|
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 4**  | 13 Mar <br />14 Mar  |  Pretraining: ELMo, BERT, MLM, task generality &#124; Transfer Learning: Introduction <br />Pretraining S2S: BART, T5    |  Antoine Bosselut                   		|
+| **Week 4**  | 13 Mar <br />14 Mar  |  **\[Online only\]** Pretraining: ELMo, BERT, MLM, task generality &#124; Transfer Learning: Introduction <br /> Assignment 1 Q&A   |  Antoine Bosselut  <br />  Simin Fan                 		|
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 5**  | 20 Mar <br />21 Mar  |  Transfer Learning: Dataset Biases  <br />Generation: Task    |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
@@ -72,9 +72,9 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 | **Week 2**  |  29 Feb  |  Word embeddings review <br /> Language and Sequence-to-sequence models [[code][2e]] |  Mete Ismayilzada <br />Badr AlKhamissi  |
 |             |         |                                                                                       |                                                                     |
 | **Week 3**  |  6 Mar  | Assignment 1 Q&A    | Mete Ismayilzada         |
-| **Week 3**  |  7 Mar  | Language and Sequence-to-sequence models review <br /> Attention + Transformers <br /> Assignment 1 Q&A    |  Badr AlKhamissi    |
+| **Week 3**  |  7 Mar  | Language and Sequence-to-sequence models review <br /> Attention + Transformers    |  Badr AlKhamissi    |
 |             |         |                                                                                       |                                                                     |
-| **Week 4**  | 13 Mar  |  Assignment 1 Q&A   | Simin Fan     |
+| **Week 4**  | 13 Mar  |  **\[Online only\]** Pretraining S2S: BART, T5 | Antoine Bosselut   |
 | **Week 4**  | 14 Mar  |  Attention + Transformers review <br />Pretraining and Transfer Learning Pt. 1  |  Badr AlKhamissi  <br /> Simin Fan    |
 |             |         |                                                                                       |                                                                     |
 | **Week 5**  | 20 Mar  |  Assignment 2 Q&A        |  Simin Fan              |
