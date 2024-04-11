@@ -45,7 +45,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |                      |                                                                                                                             |                                      	    |
 |             |                      |  ***EASTER BREAK***                                                                                                       |                                     		|
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 7**  |  10 Apr  <br />11 Apr  |  In-context Learning - GPT-3 + Prompts &#124; Instruction Tuning<br />Project Description    |  Antoine Bosselut                   		|
+| **Week 7**  |  10 Apr  <br />11 Apr  |  In-context Learning - GPT-3 + Prompts &#124; Instruction Tuning [[slides][6s]]<br />Project Description    |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 8**  | 17 Apr <br />18 Apr  |  Scaling laws &#124; Model Compression <br />**No class** (Project work; A1 Grade Review Session)    |  Antoine Bosselut <br /> 		|
 |             |                      |                                                                                                                             |                                      	    |
@@ -184,7 +184,7 @@ Please email us at **nlp-cs552-spring2024-ta-team [at] groupes [dot] epfl [dot] 
 [4s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%204
 [5s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%205
 [6s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%206
-<!-- [7s]: -->
+[7s]:https://github.com/epfl-nlp/cs-552-modern-nlp/tree/main/Lectures/Week%207
 <!-- [8s]: -->
 <!-- [9s]: -->
 <!-- [10s]: -->
