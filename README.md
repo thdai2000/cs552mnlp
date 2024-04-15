@@ -47,7 +47,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 7**  |  10 Apr  <br />11 Apr  |  In-context Learning - GPT-3 + Prompts &#124; Instruction Tuning [[slides][6s]]<br />Project Description    |  Antoine Bosselut                   		|
 |             |                      |                                                                                                                             |                                      	    |
-| **Week 8**  | 17 Apr <br />18 Apr  |  Scaling laws &#124; Model Compression <br />**No class** (Project work; A1 Grade Review Session)    |  Antoine Bosselut <br /> 		|
+| **Week 8**  | 17 Apr <br />18 Apr  |  **\[Online only\]** Scaling laws &#124; Model Compression <br />**No class**    |  Antoine Bosselut <br /> 		|
 |             |                      |                                                                                                                             |                                      	    |
 | **Week 9** | 24 Apr <br />25 Apr  |  Ethics in NLP: Bias / Fairness and Toxicity, Privacy, Disinformation <br />**No class** (Project work; A1 Grade Review Session)    |  Anna Sotnikova                   		|
 |             |                      |                                                                                                                             |                                      	    |
@@ -77,7 +77,7 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 | **Week 4**  | 13 Mar  |  **\[Online only\]** Pretraining S2S: BART, T5 [[slides][4s]] | Antoine Bosselut   |
 | **Week 4**  | 14 Mar  |  Attention + Transformers review <br />Pretraining and Transfer Learning Pt. 1 [[code][4e]] |  Badr AlKhamissi  <br /> Simin Fan    |
 |             |         |                                                                                       |                                                                     |
-| **Week 5**  | 20 Mar  |      -     |       -          |
+| **Week 5**  | 20 Mar  |    No lecture     |       -          |
 | **Week 5**  | 21 Mar  |  Pretraining and Transfer Learning Pt. 1 review <br />Transfer Learning Pt. 2    [[code][5e]] |  Simin Fan              |
 |             |         |                                                                                       |                                                                     |
 | **Week 6**  | 27 Mar  |  Assignment 2 Q&A    |  Simin Fan, Silin Gao    |
@@ -88,9 +88,9 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 | **Week 7**  |  10 Apr  |  Assignment 3 Q&A                   |  Badr AlKhamissi <br /> Deniz Bayazit  |
 | **Week 7**  |  11 Apr  |  Text Generation review <br />In-context Learning                  |  Deniz Bayazit <br /> Mete Ismayilzada  |
 |             |         |                                                                                       |                                                                     |
-| **Week 8**  | 17 Apr  | Assignment 3 Q&A                   |  Badr AlKhamissi <br /> Deniz Bayazit <br /> Mete Ismayilzada |
-| **Week 8**  | 18 Apr  |  In-context Learning review                  | Mete Ismayilzada |
-|             |         |                                                                                       |                                                                     |
+| **Week 8**  | 17 Apr  | No lecture                                                 | - |
+| **Week 8**  | 18 Apr  |  Assignment 3 Q&A  <br /> A1 Grade Review Session                |  Badr AlKhamissi <br /> Deniz Bayazit <br /> Mete Ismayilzada |                                                         |
+
 | **Week 9** | 24 & 25 Apr  |  Project                                                               |  TA meetings on-demand                              |
 |             |         |                                                                                       |                                                                     |
 | **Week 10** |  1 & 2 May  |  Project                                                                             |  TA meetings on-demand                                              |
