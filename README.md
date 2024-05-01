@@ -268,12 +268,11 @@ Recording of the lectures will be made available on SwitchTube. We will reuse so
 |             |         |                                                                                       |                                                                     |
 | **Week 7**  |  10 Apr  |  Assignment 3 Q&A                   |  Badr AlKhamissi <br /> Deniz Bayazit  |
 | **Week 7**  |  11 Apr  |  Text Generation review <br />In-context Learning          [[code][7e]]    |  Deniz Bayazit <br /> Mete Ismayilzada  |
-|             |         |                                                                                       |                                                                     |
+|             |         |  |  |
 | **Week 8**  | 17 Apr  | No lecture                                                 | - |
-| **Week 8**  | 18 Apr  |  Assignment 3 Q&A  <br /> A1 Grade Review Session                |  Badr AlKhamissi <br /> Deniz Bayazit <br /> Mete Ismayilzada |                                                         |
-
-| **Week 9** | 24 & 25 Apr  |  Project                                                               |  TA meetings on-demand                              |
-|             |         |                                                                                       |                                                                     |
+| **Week 8**  | 18 Apr  |  Assignment 3 Q&A  <br /> A1 Grade Review Session                |  Badr AlKhamissi <br /> Deniz Bayazit <br /> Mete Ismayilzada |     
+| **Week 9** | 24 & 25 Apr  |  Project |  TA meetings on-demand |
+|             |         |  |  |
 | **Week 10** |  1 & 2 May  |  Project                                                                             |  TA meetings on-demand                                              |
 |             |         |                                                                                       |                                                                     |
 | **Week 11** | 8 & 9 May  |  Project  <br /> Milestone 1 Feedback                                                |  TA meetings on-demand                              |
