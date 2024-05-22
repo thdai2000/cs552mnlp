@@ -341,7 +341,7 @@ More details on the content of the project and the deliverables of each mileston
 
 #### Milestone 2:
 <!-- - Milestone 2 parameters can be found in the [project description][2p]. -->
-- Due: 26 May 2024
+- Due: 28 May 2024
 
 #### Final Deliverable:
 - The final report, code, and date will be due on June 14th. Students are welcome to turn in their materials ahead of time, as soon as the semester ends.
